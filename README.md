@@ -57,7 +57,7 @@ Profissional de TI com experiência consolidada em **suporte técnico (N1 a N3)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-venc)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lvenc)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luanvencc@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luanvencc@gmail.com)
 
 📌 **Aberto a oportunidades home office nas áreas de:**
 - Suporte Técnico N2/N3 (com SQL)
